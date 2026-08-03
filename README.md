@@ -176,7 +176,7 @@ Follow these steps to run the project locally:
 - Open **phpMyAdmin** and create a new database.
 - Import `shop_database.sql` from the `database` folder.
 - Update the database connection settings in `includes/dbconnection.php` if necessary.
-- Open your browser and navigate to: http://localhost/GroceryWebShop/
+- Open your browser and navigate to: http://localhost/WebShop/
 
 The application should now be running locally.
 
